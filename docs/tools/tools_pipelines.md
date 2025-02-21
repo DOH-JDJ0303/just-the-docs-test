@@ -1,6 +1,6 @@
 ---
 title: Pipelines
-layout: page
+layout: default
 parent: Tools
 nav_order: 1
 ---

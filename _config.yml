@@ -1,8 +1,8 @@
-title: WAPHL Test Website
+title: Western Bioinformatics Resource Page
 description: This is a test website
 theme: just-the-docs
 logo: "assets/images/logo.png"
-favicon_icon: "assets/images/logo.png"
+favicon_ico: "assets/images/logo.png"
 
 url: https://just-the-docs.github.io
 
@@ -20,4 +20,4 @@ callouts:
   tip:
     color: green
 
-footer_content: "Dang this is cool!"
+footer_content: "Western Bioinformatics Resource Page"

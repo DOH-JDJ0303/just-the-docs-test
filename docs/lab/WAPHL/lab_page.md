@@ -1,6 +1,5 @@
 ---
 title: WAPHL
-layout: page
+layout: default
 parent: Labs
-nav_order: 2
 ---

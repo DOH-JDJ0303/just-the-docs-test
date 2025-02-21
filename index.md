@@ -1,9 +1,9 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
-
-This is a test website.
-
-{: .note }
-This is a note
+<p align="center">
+  <img src="assets/images/logo.png" width="500"/>
+</p>
+# Welcome to the Western Bioinformatics Resource Page
