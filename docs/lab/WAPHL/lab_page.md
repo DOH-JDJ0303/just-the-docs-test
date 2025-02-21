@@ -1,7 +1,6 @@
 ---
 title: WAPHL
 layout: page
-nav_order: 3
+parent: Labs
+nav_order: 2
 ---
-
-WAPHL is cool
