@@ -1,6 +1,6 @@
 ---
 title: Tutorials
 layout: page
-Parent: Learn
+parent: Learn
 nav_order: 1
 ---
